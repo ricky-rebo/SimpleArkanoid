@@ -1,0 +1,7 @@
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid\Arkanoid\ArkanoidContent\obj\x86\Debug\ArkanoidContent.contentprojResolveAssemblyReference.cache
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_2\Arkanoid\ArkanoidContent\obj\x86\Debug\ArkanoidContent.contentprojResolveAssemblyReference.cache
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_3\Arkanoid\ArkanoidContent\obj\x86\Debug\ArkanoidContent.contentprojResolveAssemblyReference.cache
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\ArkanoidContent\obj\x86\Debug\ArkanoidContent.contentprojResolveAssemblyReference.cache
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_4.5\Arkanoid\ArkanoidContent\obj\x86\Debug\ArkanoidContent.contentprojResolveAssemblyReference.cache
+C:\Users\ricky\Desktop\Arkanoid_4.5\Arkanoid\ArkanoidContent\obj\x86\Debug\ArkanoidContent.contentprojAssemblyReference.cache
+C:\Users\ricky\Desktop\Arkanoid_4.5\Arkanoid\ArkanoidContent\obj\x86\Debug\ArkanoidContent.contentproj.CoreCompileInputs.cache

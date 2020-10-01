@@ -1,0 +1,61 @@
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid\Arkanoid\Arkanoid\bin\x86\Debug\Content\ball.xnb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid\Arkanoid\Arkanoid\bin\x86\Debug\Content\rect.xnb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid\Arkanoid\Arkanoid\bin\x86\Debug\Arkanoid.exe
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid\Arkanoid\Arkanoid\bin\x86\Debug\Arkanoid.pdb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid\Arkanoid\Arkanoid\obj\x86\Debug\Arkanoid.csprojResolveAssemblyReference.cache
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid\Arkanoid\Arkanoid\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid\Arkanoid\Arkanoid\obj\x86\Debug\Arkanoid.exe
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid\Arkanoid\Arkanoid\obj\x86\Debug\Arkanoid.pdb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_2\Arkanoid\Arkanoid\bin\x86\Debug\Content\ball.xnb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_2\Arkanoid\Arkanoid\bin\x86\Debug\Content\rect.xnb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_2\Arkanoid\Arkanoid\bin\x86\Debug\Arkanoid.exe
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_2\Arkanoid\Arkanoid\bin\x86\Debug\Arkanoid.pdb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_2\Arkanoid\Arkanoid\obj\x86\Debug\Arkanoid.csprojResolveAssemblyReference.cache
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_2\Arkanoid\Arkanoid\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_2\Arkanoid\Arkanoid\obj\x86\Debug\Arkanoid.exe
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_2\Arkanoid\Arkanoid\obj\x86\Debug\Arkanoid.pdb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_2\Arkanoid\Arkanoid\bin\x86\Debug\Content\font.xnb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Content\ball.xnb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Content\rect.xnb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Content\font.xnb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Arkanoid.exe
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Arkanoid.pdb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_3\Arkanoid\Arkanoid\obj\x86\Debug\Arkanoid.csprojResolveAssemblyReference.cache
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_3\Arkanoid\Arkanoid\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_3\Arkanoid\Arkanoid\obj\x86\Debug\Arkanoid.exe
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_3\Arkanoid\Arkanoid\obj\x86\Debug\Arkanoid.pdb
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Content\ball.xnb
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Content\rect.xnb
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Content\font.xnb
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Arkanoid.exe
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Arkanoid.pdb
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\obj\x86\Debug\Arkanoid.csprojResolveAssemblyReference.cache
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\obj\x86\Debug\Arkanoid.exe
+C:\Users\Riccardo\Desktop\Arkanoid_3\Arkanoid\Arkanoid\obj\x86\Debug\Arkanoid.pdb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_4.5\Arkanoid\Arkanoid\bin\x86\Debug\Content\ball.xnb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_4.5\Arkanoid\Arkanoid\bin\x86\Debug\Content\rect.xnb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_4.5\Arkanoid\Arkanoid\bin\x86\Debug\Content\font.xnb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_4.5\Arkanoid\Arkanoid\bin\x86\Debug\Arkanoid.exe
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_4.5\Arkanoid\Arkanoid\bin\x86\Debug\Arkanoid.pdb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_4.5\Arkanoid\Arkanoid\obj\x86\Debug\Arkanoid.csprojResolveAssemblyReference.cache
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_4.5\Arkanoid\Arkanoid\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_4.5\Arkanoid\Arkanoid\obj\x86\Debug\Arkanoid.exe
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_4.5\Arkanoid\Arkanoid\obj\x86\Debug\Arkanoid.pdb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_4.5\Arkanoid\Arkanoid\bin\x86\Debug\Content\background.xnb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_4.5\Arkanoid\Arkanoid\bin\x86\Debug\Content\paddle.xnb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_4.5\Arkanoid\Arkanoid\bin\x86\Debug\Content\BallBounce.xnb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_4.5\Arkanoid\Arkanoid\bin\x86\Debug\Content\BallDeath.xnb
+Z:\2016-2017\Corso C# !Avanzato\Arkanoid_4.5\Arkanoid\Arkanoid\bin\x86\Debug\Content\Gameover.xnb
+C:\Users\ricky\Desktop\Arkanoid_4.5\Arkanoid\Arkanoid\obj\x86\Debug\Arkanoid.exe
+C:\Users\ricky\Desktop\Arkanoid_4.5\Arkanoid\Arkanoid\obj\x86\Debug\Arkanoid.pdb
